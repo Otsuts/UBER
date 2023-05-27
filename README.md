@@ -1,3 +1,4 @@
 # UBER example demonstration in python
-This is python implementation of UBER platform from
-Example demonstration for UBER: An Unreal Engine Based Simulation Platform with Extensibility and Real-time Capability 
+This is python example demonstration of UBER platform from
+
+UBER: An Unreal Engine Based Simulation Platform with Extensibility and Real-time Capability 
